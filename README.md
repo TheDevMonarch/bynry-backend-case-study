@@ -1,7 +1,7 @@
 
 # Bynry Case Studies
 
-This repository contains my solutions for the Bynry Backend Engineering Internship Case Studies. The case studies are divided into three parts and showcase backend development skills using Node.js, Express, and MongoDB.
+This repository contains my solutions for the Bynry Backend Engineering Internship Case Studies. The case studies are divided into three parts and showcase backend development skills using Node.js, Express, mongodb and flask.
 
 ---
 
