@@ -10,7 +10,7 @@ const warehouseSchema =  new mongoose.Schema({
     ref:'Company',
     required:true
   },
-  location:{
+  address:{
     type:String,
     required:true
   },
