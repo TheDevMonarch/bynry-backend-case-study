@@ -18,6 +18,13 @@ const warehouseInventorySchema = new mongoose.Schema({
     required:true,
     min:1
   },
+
+  //Added this minStock level for product, so later to send low - stock alerts.
+  minStocklevel:{
+    type:Number,
+    required:true,
+    min:0
+  },
   
   lastUpdated:{
     type:Date,
