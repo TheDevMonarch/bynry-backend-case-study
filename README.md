@@ -52,7 +52,6 @@ BynryCaseStudies/
 
 ## 📌 Part 3 – RESTful API Design
 
-- Built an Express.js server with multiple API endpoints.
 - created an api endpoint that uses dynamic routing and gives the product inventory data.
 - Applied `.env` configuration and modular structure.
 
